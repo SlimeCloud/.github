@@ -1,5 +1,5 @@
 # Moin 👋
-Dies ist der offizielle GitHub Account des Dev-Teams von dem deutschen Community Discord "[SlimeCloud](https://discord.gg/slimecloud)"
+Dies ~~ist~~ war der offizielle GitHub Account des Dev-Teams von dem deutschen Community Discord "[SlimeCloud](https://slimecloud.de)"
 
 
 ## Contributing
